@@ -1,1 +1,1 @@
-Este repositório é para organizar e compartilhar alguns exercícios que fiz em Python básico. Eu não criei esses exercícios. Apenas estou compartilhando as minhas soluções.
+Este repositório tem como objetivo organizar e compartilhar algumas soluções que desenvolvi para exercícios de Python básico. Os exercícios originais não foram criados por mim.
