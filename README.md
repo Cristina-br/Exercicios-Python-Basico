@@ -2,4 +2,5 @@ Este repositório tem como objetivo organizar e compartilhar algumas soluções 
 
 Exercícios:
 
+raiz-quadrada.py - ex006 do Curso em Vídeo, do prof. Guanabara;
 tabuada.py - ex009 do Curso em Vídeo, do prof. Guanabara;
