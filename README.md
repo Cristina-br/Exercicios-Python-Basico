@@ -7,3 +7,5 @@ raiz-quadrada.py - ex006 do Curso em Vídeo, do prof. Guanabara;
 tabuada.py - ex009 do Curso em Vídeo, do prof. Guanabara;
 
 conversor-moedas.py - ex010 do Curso em Vídeo, do prof. Guanabara;
+
+fibonacci.py - exercício proposto por empresa para processo de seleção para vaga de estágio; 
