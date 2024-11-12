@@ -2,6 +2,6 @@ Este repositório tem como objetivo organizar e compartilhar algumas soluções 
 
 Exercícios:
 
-ex 006, 009, 010, 017, 018, 019, 020 - Curso em Vídeo, do prof. Guanabara;
+ex 006, 009, 010, 017, 018, 019, 020, 021 - Curso em Vídeo, do prof. Guanabara;
 
 fibonacci.py - exercício proposto por empresa para processo de seleção para vaga de estágio; 
