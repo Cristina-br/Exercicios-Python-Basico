@@ -1,7 +1,3 @@
-from dataclasses import replace
-from mailbox import NoSuchMailboxError
-from os.path import split
-
 nome = input("Escreva seu nome completo: ")
 
 print("Analisando seu nome...")
