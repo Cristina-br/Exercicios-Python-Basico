@@ -2,6 +2,4 @@ Este repositório tem como objetivo organizar e compartilhar algumas soluções 
 
 Exercícios:
 
-ex002 até ex100 - Curso em Vídeo, do prof. Guanabara;
-
-fibonacci.py - exercício proposto por empresa para processo de seleção para vaga de estágio; 
+ex006 até ex100 - Curso em Vídeo, do prof. Guanabara;
